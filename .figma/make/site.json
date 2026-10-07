@@ -1,0 +1,10 @@
+{
+  "description": "Delivers precise webpage designs by replicating layouts exactly as specified, enabling users to create accurate, professional web pages effortlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
